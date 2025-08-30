@@ -1,4 +1,4 @@
-# -Smart-CRM-Funnel-Optimization-Dashboard-2026-
+# Smart-CRM-Funnel-Optimization-Dashboard-2026
 
 🚀 An **interactive Streamlit dashboard** that simulates CRM funnels, analyzes customer acquisition costs (CAC), generates nurturing email templates, and provides actionable insights to optimize marketing strategies.
 
