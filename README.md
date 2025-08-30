@@ -34,6 +34,16 @@ It uses **mock data** and is ideal for **demos, interviews, or as a base** to bu
 
 ---
 
+## 📸 Demo Preview
+
+![Dashboard Overview](assets/dashboard_1.png)
+*Funnel stages, metrics, and insights.*
+
+![Channel Performance](assets/dashboard_2.png)
+*Channel conversion rates and experiment suggestions.*
+
+---
+
 ## **🛠️ Tech Stack**
 | Component        | Technology Used |
 |------------------|------------------|
