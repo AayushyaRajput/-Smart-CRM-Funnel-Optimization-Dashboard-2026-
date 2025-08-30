@@ -39,6 +39,8 @@ It uses **mock data** and is ideal for **demos, interviews, or as a base** to bu
 ![Dashboard Overview](https://github.com/AayushyaRajput/-Smart-CRM-Funnel-Optimization-Dashboard-2026-/blob/9bc37c35915e0e35f10aeb6bab45f9fe8334026a/Funnel%20stages.png)
 *Funnel stages, metrics, and insights.*
 
+
+
 ![Channel Performance](https://github.com/AayushyaRajput/-Smart-CRM-Funnel-Optimization-Dashboard-2026-/blob/9bc37c35915e0e35f10aeb6bab45f9fe8334026a/Channel%20conversion.png)
 *Channel conversion rates and experiment suggestions.*
 
